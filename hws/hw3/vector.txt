@@ -1,0 +1,1 @@
+vector = {vect, test, gtu, ab}, size = 4}

@@ -1,0 +1,52 @@
+0 9
+D a.txt 1704558002 163
+This is the test file
+For shell homework given
+file should be copied accordingly:
+    lines should be aligned,
+    correct symbols and characters
+full file content
+F test 1704558008 2
+D b.txt 1704558021 163
+This is the test file
+For shell homework given
+file should be copied accordingly:
+    lines should be aligned,
+    correct symbols and characters
+full file content
+F te3 1704634038 0
+D er.txt 1704558277 163
+This is the test file
+For shell homework given
+file should be copied accordingly:
+    lines should be aligned,
+    correct symbols and characters
+full file content
+D q.txt 1704561236 163
+This is the test file
+For shell homework given
+file should be copied accordingly:
+    lines should be aligned,
+    correct symbols and characters
+full file content
+L q2.txt 1704633968 q.txt
+L te2 1704634015 test
+L tr4 1704634064 test/te3
+F test2 1704791818 1
+D b.txt 1704791818 163
+This is the test file
+For shell homework given
+file should be copied accordingly:
+    lines should be aligned,
+    correct symbols and characters
+full file content
+D main.cpp 1704808102 97
+#include <iostream>
+#include <vector>
+#include <string>
+
+using namespace std;
+
+int main(){
+    
+}
